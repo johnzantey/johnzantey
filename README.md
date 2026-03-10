@@ -9,5 +9,5 @@
 - 💬 ask: anything related
 - 💻 void, alpine, artix, arch, bsd
 - 📃 vi, vim, nvim, gvim
-- 💡 operating Systems, code, networks, cryptography, reversing, non-linear topological algebra, computability complexity, music
+- 💡 operating systems, code, networks, cryptography, reversing, non-linear topological algebra, computability complexity, music
 - ⚡ fun fact: 30+ years professionally doing 'pewter things
