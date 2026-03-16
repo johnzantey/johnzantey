@@ -5,7 +5,7 @@
 
 
 - 🔭 full-time: blockchain + tokenisation (rust + dotnet blazor)
-- 🤔 open source: void-linux+alpinelinux: samba-dc (+assoc. packages), netcoredbg
+- 🤔 open source: things, stuff, many, yes
 - 💬 ask me: anything related
 - 💻 void, ~~redhat~~, alpine, artix, ~~ubuntu~~,arch, bsd
 - 📃 vi, vim, nvim, ~~gvim~~
