@@ -8,7 +8,6 @@
 - 🤔 open source: void-linux+alpinelinux: samba-dc (+assoc. packages), netcoredbg
 - 💬 ask me: anything related
 - 💻 void, ~~redhat~~, alpine, artix, ~~ubuntu~~,arch, bsd
--:w
- 📃 vi, vim, nvim, ~~gvim~~
+- 📃 vi, vim, nvim, ~~gvim~~
 - 💡 operating systems, code, networks, cryptography, reversing, non-linear topological algebra, computability complexity, music
 - ⚡ 30+ years professionally doing 'pewter things
