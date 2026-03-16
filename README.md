@@ -4,10 +4,11 @@
 -->
 
 
-- 🔭 current: blockchain + tokenisation (rust + dotnet blazor)
-- 🤔 help me: with winning lotto
+- 🔭 full-time: blockchain + tokenisation (rust + dotnet blazor)
+- 🤔 open source: void-linux+alpinelinux: samba-dc (+assoc. packages), netcoredbg
 - 💬 ask me: anything related
 - 💻 void, ~~redhat~~, alpine, artix, ~~ubuntu~~,arch, bsd
-- 📃 vi, vim, nvim, ~~gvim~~
+-:w
+ 📃 vi, vim, nvim, ~~gvim~~
 - 💡 operating systems, code, networks, cryptography, reversing, non-linear topological algebra, computability complexity, music
 - ⚡ 30+ years professionally doing 'pewter things
