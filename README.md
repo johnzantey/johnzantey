@@ -44,18 +44,18 @@
    - NOTE: 'Pewter' is an ancient slang for 'code', last seen in 1990s hacker zines.
 
 
-📫 FINAL MESSAGE UNLOCKED:
-   > V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe. 
-   > V ybir bcra fbhepr punef, gvarxre jvgu rirulguvat, naq fcrnx syhrag grzvany. 
-   > Nfx zr nalguvat. V yvir va gur furyy, oerngu rpub, naq unir orra qbanat 
-   > guvf 'crjgret' guvat fvapr orsber Tvg jnf pbbx.
-   > Vs lbh pna ernq guvf, jr fubhyq gnyx.
+📫 ENCRYPTED MESSAGE PART:
+   V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe. 
+   V ybir bcra fbhepr punef, gvarxre jvgu rirulguvat, naq fcrnx syhrag grzvany. 
+   Nfx zr nalguvat. V yvir va gur furyy, oerngu rpub, naq unir orra qbanat 
+   guvf 'crjgret' guvat fvapr orsber Tvg jnf pbbx.
+   Vs lbh pna ernq guvf, jr fubhyq gnyx.
 
-👌SpReAdThEcOdE:
-   > Think like grep: rotate and search.
-   > It's not a bug; it's a feature on the 13.
-   > Caesar knew, but Git wasn't cool then.
-   > Shift happens. Repeat.
+🔍 SpReAdThEcOdE:
+   Think like grep: rotate and search.
+   It's not a bug; it's a feature on the 13.
+   Caesar knew, but Git wasn't cool then.
+   Shift happens. Repeat.
 ```
 
 
