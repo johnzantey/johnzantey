@@ -50,8 +50,7 @@ FINAL MESSAGE UNLOCKED:
 
 SpReAdThEcOdE:
 > Think like grep: rotate and search.
-> It's not a bug — it's a feature with +13.
-> ROT13: the original 'open source' cipher.
+> It's not a bug; it's a feature with +13.
 > Caesar knew, but Git wasn't cool then.
 > Shift happens. Especially at 13.
 
