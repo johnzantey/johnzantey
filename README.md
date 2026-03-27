@@ -40,7 +40,7 @@
    - music (preferably in 4/4, like a good state machine)
 
 ⚡ LEGACY STATUS:
-   - EXPERIENCE: 30+ years of 'pewter things'
+   - EXPERIENCE: 30+ years of 'pewter things' professionally (paid, ie: 💰💰💰💰💰)
    - NOTE: 'Pewter' is an ancient slang for 'code', last seen in 1990s hacker zines.
 
 
