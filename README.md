@@ -43,9 +43,6 @@
          • EXPERIENCE: 30+ years of 'pewter things'
          • NOTE: 'Pewter' is an ancient slang for 'code', last seen in 1990s hacker zines.
 
-     🔍 FINAL DECRYPTION KEY: 
-         ROT(13) + Soul of a Hacker + Coffee ☕ x3
-
      🧩 FINAL MESSAGE UNLOCKED:
           "V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe. 
            V ybir bcra fbhepr punef, gvarxre jvgu rirulguvat, naq fcrnx syhrag grzvany. 
