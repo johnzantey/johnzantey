@@ -26,7 +26,7 @@
          • WARNING: May respond in MIPS-ASM, RPG-II, C, lisp, rust, or haiku
 
      [4] 💾 SYSTEM PREFERENCES:
-         • OS: [REDACTED] → Arch, ~~RedHat~~, Alpine, BSD, Artix, ~~Ubuntu~~, Void
+         • OS: [REDACTED] → Alpine, BSD, Artix, Arch, Void
          • EDITOR: vi family only. GUI? Never heard of her.
 
      [5] 🧠 CORE INTERESTS:
