@@ -9,7 +9,7 @@
 ⚙️  DECODING MESSAGE STREAM...
 
 
-
+```
 🌐 FULL-TIME DIRECTIVE:
    - CURRENT DOMAIN: blockchain + tokenisation
    - CURRENT LANGUAGE PAIR: rust 🦀 ↔ dotnet blazor 💻
@@ -30,19 +30,18 @@
    - EDITOR: vi family only. GUI? Never heard of her.
 
 🧠 CORE INTERESTS:
-   - operating systems
+   - highly optimised operating systems
    - code (especially when it shouldn't work, but does)
    - networks (the digital kind, not social)
    - cryptography (because secrets are fun)
    - reversing (unpacking binaries like Christmas)
-   - non-linear topological algebra (for fun and profit)
+   - non-linear topological algebra (for fun...)
    - computability complexity (is halting overrated?)
    - music (preferably in 4/4, like a good state machine)
 
 ⚡ LEGACY STATUS:
    - EXPERIENCE: 30+ years of 'pewter things' professionally (paid, ie: 💰💰💰💰💰)
    - NOTE: 'Pewter' is an ancient slang for 'code', last seen in 1990s hacker zines.
-
 
 
 📫 FINAL MESSAGE UNLOCKED:
@@ -57,7 +56,7 @@
    > It's not a bug; it's a feature on the 13.
    > Caesar knew, but Git wasn't cool then.
    > Shift happens. Repeat.
-
+```
 
 
 🖤 END OF TRANSMISSION
