@@ -11,29 +11,23 @@
 
 ```
 🌐 rust↔blazor // chainspace
-🔭 consensus anomalies logged, not reported
 
 🧩 OSS: inevitable
-⚖️ license: permissive / no-ceremony
-✔️ if it links, it lives
 
 📡 port: open
 📥 accepts: protocols, edge-cases, broken abstractions
-⚠️ responses undefined (asm | lisp | rust | verse)
+⚠️ responses undefined (asm | C/C# | rust | java)
 
 💾 alpine|bsd|void|arch
-⌨️ vi. no witnesses.
+⌨️ vi. only vi.
 
-🧠 systems - forbidden optimisations - crypto - reversing - topology for sport
+🧠 systems - forbidden optimisations - cryptographic things - reversing - non linear topology
 
-⚡ 30y pewter
-shipped before git learned to crawl
+⚡ 30y++ pewter-ing along
 
-📫
-V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
+📫 V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
 Vs lbh pna ernq guvf, jr fubhyq gnyx.
-
-🔍 unlucky. rotate. search. repeat.
+>> 🔍 unlucky. rotate. search. repeat.
 ```
 
 
