@@ -10,52 +10,30 @@
 
 
 ```
-🌐 FULL-TIME DIRECTIVE:
-   - CURRENT DOMAIN: blockchain + tokenisation
-   - CURRENT LANGUAGE PAIR: rust 🦀 ↔ dotnet blazor 💻
-   - STATUS: 🔭 actively observing consensus anomalies
+🌐 rust↔blazor // chainspace
+🔭 consensus anomalies logged, not reported
 
-🧩 OPEN-SOURCE MANIFESTO:
-   - PROJECTS: things, stuff, many, yes
-   - LICENSE: Do What Thou Wilt (DWTFYWPL)
-   - MOTTO: "If it compiles and hums, merge it."
+🧩 OSS: inevitable
+⚖️ license: permissive / no-ceremony
+✔️ if it links, it lives
 
-📢 COMMUNICATION PROTOCOL:
-   - PORT OPEN: ✅
-   - INPUT ACCEPTED: anything related
-   - WARNING: May respond in MIPS-ASM, RPG-II, C, lisp, rust, or haiku
+📡 port: open
+📥 accepts: protocols, edge-cases, broken abstractions
+⚠️ responses undefined (asm | lisp | rust | verse)
 
-💾 SYSTEM PREFERENCES:
-   - OS: [REDACTED] → Alpine, BSD, Artix, Arch, Void
-   - EDITOR: vi family only. GUI? Never heard of her.
+💾 alpine|bsd|void|arch
+⌨️ vi. no witnesses.
 
-🧠 CORE INTERESTS:
-   - highly optimised operating systems
-   - code (especially when it shouldn't work, but does)
-   - networks (the digital kind, not social)
-   - cryptography (because secrets are fun)
-   - reversing (unpacking binaries like Christmas)
-   - non-linear topological algebra (for fun...)
-   - computability complexity (is halting overrated?)
-   - music (preferably in 4/4, like a good state machine)
+🧠 systems - forbidden optimisations - crypto - reversing - topology for sport
 
-⚡ LEGACY STATUS:
-   - EXPERIENCE: 30+ years of 'pewter things' professionally (paid, ie: 💰💰💰💰💰)
-   - NOTE: 'Pewter' is an ancient slang for 'code', last seen in 1990s hacker zines.
+⚡ 30y pewter
+shipped before git learned to crawl
 
+📫
+V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
+Vs lbh pna ernq guvf, jr fubhyq gnyx.
 
-📫 ENCRYPTED MESSAGE PART:
-   V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe. 
-   V ybir bcra fbhepr punef, gvarxre jvgu rirulguvat, naq fcrnx syhrag grzvany. 
-   Nfx zr nalguvat. V yvir va gur furyy, oerngu rpub, naq unir orra qbanat 
-   guvf 'crjgret' guvat fvapr orsber Tvg jnf pbbx.
-   Vs lbh pna ernq guvf, jr fubhyq gnyx.
-
-🔍 SpReAdThEcOdE:
-   Think like grep: rotate and search.
-   It's not a bug; it's a feature on the 13.
-   Caesar knew, but Git wasn't cool then.
-   Shift happens. Repeat.
+🔍 unlucky. rotate. search. repeat.
 ```
 
 
