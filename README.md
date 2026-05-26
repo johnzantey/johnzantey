@@ -26,7 +26,7 @@
 
 📫 V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
 Vs lbh pna ernq guvf, jr fubhyq gnyx.
-🔍 unlucky. rotate. search. repeat.
+>> 🔍 unlucky. rotate. search. repeat.
 ```
 
 🖤 END OF TRANSMISSION
