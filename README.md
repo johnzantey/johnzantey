@@ -8,23 +8,25 @@
 
 ⚙️  DECODING MESSAGE STREAM...
 
-> 🌐 rust↔blazor // CHAINSPACE
->
-> 🧩 OSS: inevitable
->
-> 📡 PORT: open
-> 📥 ACCEPTS: protocols, edge-cases, broken abstractions
-> ⚠️ responses undefined (asm | C/C# | rust | java)
->
-> 💾 alpine|bsd|void|arch|haiku
-> ⌨️ vi. only vi.
->
-> 🧠 systems - forbidden optimisations - cryptographic things - reversing - non linear topology
->
-> ⚡ 30y++ pewter-ing along
->
-> 📫 V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
-> Vs lbh pna ernq guvf, jr fubhyq gnyx.
-> 🔍 unlucky. rotate. search. repeat.
+```
+🌐 rust↔blazor // CHAINSPACE
+
+🧩 OSS: inevitable
+
+📡 PORT: open
+📥 ACCEPTS: protocols, edge-cases, broken abstractions
+⚠️ responses undefined (asm | C/C# | rust | java)
+
+💾 alpine|bsd|void|arch|haiku
+⌨️ vi. only vi.
+
+🧠 systems - forbidden optimisations - cryptographic things - reversing - non linear topology
+
+⚡ 30y++ pewter-ing along
+
+📫 V ovyq oyyxpunvaf naq gbyxvmr qernzf jvgu EhfG naq Oynmbe.
+Vs lbh pna ernq guvf, jr fubhyq gnyx.
+🔍 unlucky. rotate. search. repeat.
+```
 
 🖤 END OF TRANSMISSION
